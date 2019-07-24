@@ -42,4 +42,7 @@ MonoBehaviour:
   - RequestForPickupItems
   - RequestForPickupTimes
   - TaggedPlayer
+  - ClientConnected
+  - TransferAssetMessage
+  - TransferLineMessage
   DisableAutoOpenWizard: 1
